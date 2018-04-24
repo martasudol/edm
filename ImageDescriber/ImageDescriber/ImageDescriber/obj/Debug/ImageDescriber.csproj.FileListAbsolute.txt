@@ -1,0 +1,78 @@
+c:\users\ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\ImageDescriber.exe.config
+c:\users\ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\ImageDescriber.exe
+c:\users\ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\ImageDescriber.pdb
+c:\users\ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.Properties.Resources.resources
+c:\users\ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.csproj.GenerateResource.Cache
+c:\users\ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.exe
+c:\users\ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.pdb
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\x64\concrt140.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\x64\cvextern.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\x64\msvcp140.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\x64\opencv_ffmpeg341_64.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\x64\vcruntime140.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\x86\concrt140.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\x86\cvextern.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\x86\msvcp140.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\x86\opencv_ffmpeg341.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\x86\vcruntime140.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\Emgu.CV.World.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\ZedGraph.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\Emgu.CV.World.xml
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\ZedGraph.xml
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.FormView.resources
+C:\Users\Ania\documents\visual studio 2017\Projects\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.csprojResolveAssemblyReference.cache
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\x64\concrt140.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\x64\cvextern.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\x64\msvcp140.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\x64\opencv_ffmpeg341_64.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\x64\vcruntime140.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\x86\concrt140.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\x86\cvextern.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\x86\msvcp140.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\x86\opencv_ffmpeg341.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\x86\vcruntime140.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\ImageDescriber.exe.config
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\ImageDescriber.exe
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\ImageDescriber.pdb
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\Emgu.CV.World.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\ZedGraph.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\Emgu.CV.World.xml
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\ZedGraph.xml
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.csprojResolveAssemblyReference.cache
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.FormView.resources
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.Properties.Resources.resources
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.csproj.GenerateResource.cache
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.csproj.CoreCompileInputs.cache
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.csproj.CopyComplete
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.exe
+C:\Users\Marta\Downloads\ImageDescriber\ImageDescriber\ImageDescriber\obj\Debug\ImageDescriber.pdb
